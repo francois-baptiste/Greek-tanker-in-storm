@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>waves-016615.jpg</filename>
+	<path>/home/baptiste/Documents/waves_dataset/images/waves-016615.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wave</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>146</ymin>
+			<xmax>309</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>
